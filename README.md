@@ -12,12 +12,6 @@ Ich suche ein sechsmonatiges, unvergütetes Pflichtpraktikum in Dortmund und Umg
 
 Besonders interessiere ich mich für Backend-Entwicklung sowie **COBOL, Mainframe-Systeme und SAP/ABAP**.
 
-## Projekte
-
-* Buchverwaltung – CRUD-Webanwendung mit ASP.NET Core MVC
-* BossKampf – textbasiertes C#-Konsolenspiel
-* Aufgabenplaner – Angular-Anwendung mit Signals
-
 ## Kontakt
 
 📧 [dawidzajac123@outlook.de](mailto:dawidzajac123@outlook.de) · 📍 Dortmund
