@@ -16,7 +16,7 @@ Besonders interessiere ich mich für Backend-Entwicklung sowie **COBOL, Mainfram
 
 * Buchverwaltung – CRUD-Webanwendung mit ASP.NET Core MVC
 * BossKampf – textbasiertes C#-Konsolenspiel
-* [Aufgabenplaner](https://github.com/DawidZajac42/Aufgabenplaner) – Angular-Anwendung mit Signals
+* Aufgabenplaner – Angular-Anwendung mit Signals
 
 ## Kontakt
 
