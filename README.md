@@ -32,18 +32,17 @@ Gerne möchte ich praktische Erfahrungen in diesen Bereichen sammeln. Gleichzeit
 
 ## Projekte
 
-### Buchverwaltung
+### [Buchverwaltung](https://github.com/DawidZajac42/Buchverwaltung)
 
 CRUD-Webanwendung mit ASP.NET Core MVC, Entity Framework Core und SQLite.
 
-### BossKampf
+### [BossKampf](https://github.com/DawidZajac42/BossKampf)
 
 Textbasiertes Konsolenspiel in C# zur praktischen Anwendung von Vererbung und Polymorphismus.
 
 ### [Aufgabenplaner](https://github.com/DawidZajac42/Aufgabenplaner)
 
 Kleine Angular-Anwendung zum Verwalten von Aufgaben, umgesetzt mit Standalone Components und Signals.
-
 ## Kontakt
 
 📧 [dawidzajac123@outlook.de](mailto:dawidzajac123@outlook.de)
