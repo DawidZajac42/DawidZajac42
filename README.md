@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, ich bin Dawid 👋
 
-<!--
-**DawidZajac42/DawidZajac42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich absolviere aktuell eine Umschulung zum **Fachinformatiker für Anwendungsentwicklung** bei der BITLC GmbH in Dortmund (07/2025–07/2027).
 
-Here are some ideas to get you started:
+Zuvor habe ich in der Pflege gearbeitet und mich anschließend für den Wechsel in die IT entschieden.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 Praktikum gesucht
+
+Aktuell suche ich ein sechsmonatiges Pflichtpraktikum im Bereich Anwendungsentwicklung:
+
+* **Zeitraum:** 23.09.2026–25.03.2027
+* **Region:** Dortmund und Umgebung
+* **Vergütung:** nicht erforderlich
+* **Versicherung:** erfolgt über den Bildungsträger
+
+Ich freue mich über die Möglichkeit, meine bisherigen Kenntnisse praktisch einzusetzen, neue Technologien kennenzulernen und ein Entwicklerteam zu unterstützen.
+
+## Stack
+
+* C#
+* ASP.NET Core
+* SQL
+* TypeScript und Angular
+* Objektorientierte Programmierung (OOP)
+* Git und GitHub
+
+## Fachliche Interessen
+
+Besonders interessieren mich **Backend-Entwicklung**, **COBOL und Mainframe-Systeme** sowie die **SAP-Entwicklung mit ABAP**.
+
+Gerne möchte ich praktische Erfahrungen in diesen Bereichen sammeln. Gleichzeitig bin ich offen dafür, weitere Technologien und Bereiche der Anwendungsentwicklung kennenzulernen.
+
+## Projekte
+
+### Buchverwaltung
+
+CRUD-Webanwendung mit ASP.NET Core MVC, Entity Framework Core und SQLite.
+
+### BossKampf
+
+Textbasiertes Konsolenspiel in C# zur praktischen Anwendung von Vererbung und Polymorphismus.
+
+### [Aufgabenplaner](https://github.com/DawidZajac42/Aufgabenplaner)
+
+Kleine Angular-Anwendung zum Verwalten von Aufgaben, umgesetzt mit Standalone Components und Signals.
+
+## Kontakt
+
+📧 [dawidzajac123@outlook.de](mailto:dawidzajac123@outlook.de)
+📍 Dortmund
